@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">App02</string>
+    <string name="dateBirth">Date of birth</string>
+    <string name="emptyPhoneNumber">Phone Number</string>
+</resources>
